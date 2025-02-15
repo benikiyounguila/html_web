@@ -1,7 +1,7 @@
 # html_web
 html_web page de test
 
-![image description](capture.png)
+![image description](capture.jpeg)
 
 ### Requirements
 ---
